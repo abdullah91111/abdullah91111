@@ -124,6 +124,7 @@ I'm interested in opportunities and collaborations involving agentic AI, multi-a
 - 🌐 [Portfolio](https://abdullah91111.github.io/portfolio/)
 - 💼 [LinkedIn](https://www.linkedin.com/in/abdullah-taufiq-5975b4171/)
 - 💻 [GitHub](https://github.com/abdullah91111)
+- 💻 [LeetCode](https://leetcode.com/u/Abdullah91111/)
 
 <div align="center">
 
