@@ -128,6 +128,6 @@ I'm interested in opportunities and collaborations involving agentic AI, multi-a
 
 <div align="center">
 
-### Thanks for visiting!
+### Thanks for visiting, looking forward to talk!
 
 </div>
