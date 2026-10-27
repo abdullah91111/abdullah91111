@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="244" viewBox="0 0 480 244" role="img" aria-labelledby="title">
+<title id="title">Multi-Purpose Agent. One agent for document summaries, Q&amp;A, and LinkedIn drafts from URLs and PDFs.</title>
+<g font-family="Segoe UI, Arial, sans-serif">
+<rect x="1" y="1" width="478" height="242" rx="20" fill="#101b2b" stroke="#293b53"/>
+<text x="28" y="33" fill="#a0b1c8" font-size="12" font-weight="600" letter-spacing="1.6">01 / AUTOMATION</text><text x="28" y="75" fill="#edf4ff" font-size="28" font-weight="650" >Multi-Purpose Agent</text><text x="28" y="111" fill="#a0b1c8" font-size="18" font-weight="400" >Document summaries, Q&amp;A, and LinkedIn</text><text x="28" y="137" fill="#a0b1c8" font-size="18" font-weight="400" >drafts from URLs and PDFs.</text><path d="M28 192 L452 192" fill="none" stroke="#293b53" stroke-width="1" /><text x="28" y="222" fill="#5ee0ce" font-size="14" font-weight="500" >n8n  /  Python  /  Docker  /  LLMs</text>
+</g></svg>

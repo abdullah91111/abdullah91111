@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="244" viewBox="0 0 480 244" role="img" aria-labelledby="title">
+<title id="title">Docling API. Turn PDFs, office files, and images into structured content with table extraction.</title>
+<g font-family="Segoe UI, Arial, sans-serif">
+<rect x="1" y="1" width="478" height="242" rx="20" fill="#f5f8fc" stroke="#d9e3ef"/>
+<text x="28" y="33" fill="#50627a" font-size="12" font-weight="600" letter-spacing="1.6">02 / DOCUMENT INTELLIGENCE</text><text x="28" y="75" fill="#132238" font-size="28" font-weight="650" >Docling API</text><text x="28" y="111" fill="#50627a" font-size="18" font-weight="400" >PDFs, office files, and images into</text><text x="28" y="137" fill="#50627a" font-size="18" font-weight="400" >structured content and extracted tables.</text><path d="M28 192 L452 192" fill="none" stroke="#d9e3ef" stroke-width="1" /><text x="28" y="222" fill="#087f8c" font-size="14" font-weight="500" >Python  /  FastAPI  /  Docker</text>
+</g></svg>

@@ -1,133 +1,134 @@
-<div align="center">
+<p>
+<a href="https://abdullah91111.github.io/portfolio/">
+  <picture>
+    <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/hero-mobile-dark.svg">
+    <source media="(max-width: 600px)" srcset="assets/hero-mobile-light.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg">
+    <img src="assets/hero-light.svg" alt="Abdullah Taufiq — AI Engineer in Dubai, UAE. Agents, retrieval, and real-world software. Currently AI Engineer at Lorrysa." width="100%">
+  </picture>
+</a>
+</p>
 
-# Hi, I'm Abdullah Taufiq 👋
+<p align="center">
+  <a href="https://abdullah91111.github.io/portfolio/"><b>Portfolio ↗</b></a> &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/abdullah-taufiq-5975b4171/"><b>LinkedIn ↗</b></a> &nbsp;·&nbsp;
+  <a href="mailto:taufiq44@hotmail.com"><b>Email ↗</b></a> &nbsp;·&nbsp;
+  <a href="https://leetcode.com/u/Abdullah91111/"><b>LeetCode ↗</b></a>
+</p>
 
-### AI Engineer building production-grade agentic systems, intelligent retrieval pipelines, and scalable AI applications
+I build AI applications that work with real context: **multi-agent systems, persistent memory, RAG, and knowledge graphs**. My work connects agent orchestration and retrieval with production APIs, automation, and observability.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://abdullah91111.github.io/portfolio/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdullah-taufiq-5975b4171/)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abdullah91111)
-
-📍 Dubai, United Arab Emirates
-
-</div>
-
-## About Me
-
-I'm an AI Engineer specializing in agentic AI, multi-agent systems, retrieval-augmented generation, and knowledge graphs. I enjoy turning early AI prototypes into reliable, user-facing products that can reason over complex information, remember context, use external tools, and automate real business workflows.
-
-My work spans the full AI application stack: agent orchestration, long-term memory, RAG and GraphRAG, vector databases, backend APIs, workflow automation, observability, and production deployment.
-
-- 🎓 Bachelor of Computer Science in Artificial Intelligence from Swinburne University of Technology
-- 🤖 Experienced in designing multi-agent LLM workflows and tool-using AI agents
-- 🧠 Built persistent memory and personalized knowledge systems for AI applications
-- 🔎 Developed hybrid retrieval pipelines with RAG, GraphRAG, vector search, and knowledge graphs
-- ⚙️ Built backend services and automated workflows that connect AI agents with external systems
-- 📊 Implemented observability for production AI systems using MLflow, Datadog, and PostHog
+I'm currently an **AI Engineer at [Lorrysa](https://lorrysa.com)**, working on connected web, backend, and driver app experiences for logistics and delivery management.
 
 ## Experience
 
-### AI Engineer — BrainyAI
-**Dubai, UAE | February 2025 – June 2026**
+<table>
+  <tr>
+    <td width="72" align="center" valign="top"><a href="https://lorrysa.com"><img src="assets/logos/lorrysa.png" alt="Lorrysa logo" width="56" height="56"></a></td>
+    <td>
+      <strong>Lorrysa · AI Engineer</strong><br>
+      <sub>August 2026 – Present · Current role</sub><br><br>
+      Working on Lorrysa's logistics and delivery management platform, connecting web, backend, and driver apps for trip management, live tracking, and delivery workflows.<br><br>
+      <code>Next.js</code> <code>TypeScript</code> <code>Go</code> <code>Flutter</code> <code>Google Maps</code>
+    </td>
+  </tr>
+  <tr>
+    <td width="72" align="center" valign="top"><img src="assets/logos/brainyai.jpg" alt="BrainyAI logo" width="56" height="56"></td>
+    <td>
+      <strong>BrainyAI · AI Engineer</strong><br>
+      <sub>February 2025 – June 2026 · Dubai, UAE</sub><br><br>
+      Built multi-agent workflows with tool calling, streaming, and persistent memory. Combined vector search and knowledge graphs for retrieval, automated workflows with n8n, and added observability for production AI systems.<br><br>
+      <code>Python</code> <code>LangChain</code> <code>Letta</code> <code>Neo4j</code> <code>FalkorDB</code> <code>Qdrant</code> <code>n8n</code>
+    </td>
+  </tr>
+  <tr>
+    <td width="72" align="center" valign="top"><img src="assets/logos/purecs.jpg" alt="PureCS logo from my portfolio" width="56" height="56"></td>
+    <td>
+      <strong>PureCS · AI Intern</strong><br>
+      <sub>August – September 2024 · Dubai, UAE</sub><br><br>
+      Explored retrieval-augmented generation for document-driven applications and researched chunking strategies to improve the context retrieved for LLMs.<br><br>
+      <code>Python</code> <code>RAG</code> <code>LLMs</code> <code>Document processing</code>
+    </td>
+  </tr>
+</table>
 
-- Helped architect and scale a production-grade agentic AI platform from an early prototype into a stable user-facing deployment.
-- Designed multi-agent LLM workflows with LangChain, including orchestration, tool calling, prompt engineering, and workflow coordination.
-- Developed persistent user memory with the Letta Agents SDK to retain preferences, conversation history, and long-term context.
-- Built user-centric knowledge graphs with Neo4j and FalkorDB for contextual reasoning and personalization.
-- Developed hybrid retrieval pipelines using RAG, GraphRAG, Qdrant, and FAISS.
-- Automated end-to-end workflows with n8n, external APIs, databases, and business systems.
-- Implemented AI observability with MLflow, Datadog, and PostHog to improve reliability and troubleshoot production issues.
+<details>
+<summary><b>Earlier experience & education</b></summary>
 
-### AI Engineer Intern — PureCS
-**Dubai, UAE | August 2024 – December 2024**
+- **Pure Health · Customer Service Team Lead** — September 2020–April 2022, Dubai Airports, UAE. Led a frontline team focused on resolution quality, team performance, and dependable customer experiences.
+- **Swinburne University of Technology** — BSc Computer Science, Artificial Intelligence · 2021–2024 · Sarawak, Malaysia.
 
-- Developed a retrieval-augmented generation solution for HR screening.
-- Improved candidate information retrieval by researching and optimizing document chunking strategies.
-- Presented technical findings and recommendations to the engineering team.
+[Full experience →](https://abdullah91111.github.io/portfolio/experience/)
 
-## Tech Stack
+</details>
 
-### Languages
+## Selected projects
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+A few things I've built around useful agents, structured documents, and memory. Open a card to explore the code.
 
-### AI, Agents, and Retrieval
+<p>
+<a href="https://github.com/abdullah91111/Multi-Purpose-Agent-in-n8n">
+  <picture>
+    <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/project-agent-mobile-dark.svg">
+    <source media="(max-width: 600px)" srcset="assets/project-agent-mobile-light.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="assets/project-agent-dark.svg">
+    <img src="assets/project-agent-light.svg" alt="Multi-Purpose Agent: an n8n agent for document summarization, question answering, and LinkedIn drafts from URLs and PDFs. Python, Docker, and LLMs." width="100%">
+  </picture>
+</a>
 
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-Agent_Orchestration-1C3C3C?style=flat-square)
-![RAG](https://img.shields.io/badge/RAG-Retrieval_Augmented_Generation-8A2BE2?style=flat-square)
-![GraphRAG](https://img.shields.io/badge/GraphRAG-Knowledge_Grounded_AI-6F42C1?style=flat-square)
-![Letta](https://img.shields.io/badge/Letta-Long--Term_Agent_Memory-FF6B6B?style=flat-square)
-![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-LLM_Systems-412991?style=flat-square)
+</p>
 
-### Knowledge Graphs and Vector Search
+<p>
+<a href="https://github.com/abdullah91111/docling-api">
+  <picture>
+    <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/project-docling-mobile-dark.svg">
+    <source media="(max-width: 600px)" srcset="assets/project-docling-mobile-light.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="assets/project-docling-dark.svg">
+    <img src="assets/project-docling-light.svg" alt="Docling API: converts PDFs, office files, and images into structured content with table extraction and Markdown, JSON, and HTML exports. Python, FastAPI, and Docker." width="100%">
+  </picture>
+</a>
 
-![Neo4j](https://img.shields.io/badge/Neo4j-4581C3?style=flat-square&logo=neo4j&logoColor=white)
-![FalkorDB](https://img.shields.io/badge/FalkorDB-Knowledge_Graphs-FF6F00?style=flat-square)
-![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=flat-square&logo=qdrant&logoColor=white)
-![FAISS](https://img.shields.io/badge/FAISS-Vector_Search-0467DF?style=flat-square)
-![Supabase Vector](https://img.shields.io/badge/Supabase_Vector-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
+</p>
 
-### Backend and Automation
+<p>
+<a href="https://github.com/abdullah91111/Create-and-Search-Memories-for-A-mem-using-n8n">
+  <picture>
+    <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/project-memory-mobile-dark.svg">
+    <source media="(max-width: 600px)" srcset="assets/project-memory-mobile-light.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="assets/project-memory-dark.svg">
+    <img src="assets/project-memory-light.svg" alt="Agent Memory Workflows: n8n workflows that extract content from URLs and PDFs, generate AI tags, and store searchable memories in A-Mem." width="100%">
+  </picture>
+</a>
 
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![OAuth](https://img.shields.io/badge/OAuth_2.0-3C3C3D?style=flat-square&logo=auth0&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST_APIs-02569B?style=flat-square)
+</p>
 
-### Machine Learning, MLOps, and Observability
+[More on my portfolio →](https://abdullah91111.github.io/portfolio/projects/)
 
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
-![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=flat-square&logo=datadog&logoColor=white)
-![PostHog](https://img.shields.io/badge/PostHog-000000?style=flat-square&logo=posthog&logoColor=white)
-![DVC](https://img.shields.io/badge/DVC-13ADC7?style=flat-square&logo=dvc&logoColor=white)
+## Tools I work with
 
-### Cloud and DevOps
+| Area | Stack |
+| :--- | :--- |
+| **Languages & applications** | Python · TypeScript · JavaScript · SQL · Go · Next.js · Flutter |
+| **Agents & retrieval** | LangChain · LangGraph · Letta · RAG · GraphRAG · n8n |
+| **Graphs & storage** | Neo4j · FalkorDB · Qdrant · FAISS · Redis · Supabase |
+| **APIs & infrastructure** | FastAPI · Pydantic · REST APIs · Docker · GitHub Actions · Azure |
+| **ML & observability** | PyTorch · scikit-learn · Pandas · NumPy · MLflow · Datadog · PostHog |
 
-![Azure](https://img.shields.io/badge/Azure_AI-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
+## A year of contributions, one bite at a time
 
-## What I Enjoy Building
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abdullah91111/abdullah91111/output/github-snake-dark.svg">
+  <img src="https://raw.githubusercontent.com/abdullah91111/abdullah91111/output/github-snake.svg" alt="An animated snake eating my GitHub contribution graph from the past year. Updated daily." width="100%">
+</picture>
 
-- Multi-agent systems that coordinate specialized AI agents
-- AI assistants with persistent, personalized memory
-- RAG and GraphRAG pipelines grounded in reliable source data
-- Knowledge graph applications that connect users, documents, and relationships
-- Production APIs and automated workflows for AI-powered products
-- Observable AI systems that are easier to monitor, evaluate, and improve
+<p align="center"><sub>Generated daily from my GitHub contributions with <a href="https://github.com/Platane/snk">snk</a>.</sub></p>
 
-## GitHub Activity
+---
 
-<div align="center">
+Interested in **agents, retrieval, or production AI**? I'd love to exchange ideas or collaborate.
 
-![Abdullah's GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=abdullah91111&theme=transparent)
-
-![Top languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abdullah91111&theme=transparent)
-
-</div>
-
-## Let's Connect
-
-I'm interested in opportunities and collaborations involving agentic AI, multi-agent platforms, RAG, GraphRAG, knowledge graphs, and production AI engineering.
-
-- 🌐 [Portfolio](https://abdullah91111.github.io/portfolio/)
-- 💼 [LinkedIn](https://www.linkedin.com/in/abdullah-taufiq-5975b4171/)
-- 💻 [GitHub](https://github.com/abdullah91111)
-- 💻 [LeetCode](https://leetcode.com/u/Abdullah91111/)
-
-<div align="center">
-
-### Thanks for visiting, looking forward to talk!
-
-</div>
+<p align="center">
+  <a href="mailto:taufiq44@hotmail.com"><b>Let's talk ↗</b></a> &nbsp;·&nbsp;
+  <a href="https://abdullah91111.github.io/portfolio/">Explore my portfolio</a> &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/abdullah-taufiq-5975b4171/">Connect on LinkedIn</a>
+</p>
