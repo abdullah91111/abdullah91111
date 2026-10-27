@@ -1,24 +1,23 @@
 <p>
 <a href="https://abdullah91111.github.io/portfolio/">
   <picture>
-    <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/hero-mobile-dark.svg">
-    <source media="(max-width: 600px)" srcset="assets/hero-mobile-light.svg">
-    <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg">
-    <img src="assets/hero-light.svg" alt="Abdullah Taufiq — AI Engineer in Dubai, UAE. Agents, retrieval, and real-world software. Currently AI Engineer at Lorrysa." width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="assets/portfolio-banner-dark.svg">
+    <img src="assets/portfolio-banner-light.svg" alt="The mountain and lake banner from my portfolio, with gently drifting leaves." width="100%">
   </picture>
 </a>
 </p>
 
-<p align="center">
-  <a href="https://abdullah91111.github.io/portfolio/"><b>Portfolio ↗</b></a> &nbsp;·&nbsp;
-  <a href="https://www.linkedin.com/in/abdullah-taufiq-5975b4171/"><b>LinkedIn ↗</b></a> &nbsp;·&nbsp;
-  <a href="mailto:taufiq44@hotmail.com"><b>Email ↗</b></a> &nbsp;·&nbsp;
-  <a href="https://leetcode.com/u/Abdullah91111/"><b>LeetCode ↗</b></a>
-</p>
+# Abdullah Taufiq
 
-I build AI applications that work with real context: **multi-agent systems, persistent memory, RAG, and knowledge graphs**. My work connects agent orchestration and retrieval with production APIs, automation, and observability.
+**AI Engineer · Dubai, UAE**
 
-I'm currently an **AI Engineer at [Lorrysa](https://lorrysa.com)**, working on connected web, backend, and driver app experiences for logistics and delivery management.
+I build agents, retrieval pipelines, and knowledge systems.
+
+- Currently at **[Lorrysa](https://lorrysa.com)**, working on its logistics and delivery management platform.
+- Previously at **BrainyAI**, building the orchestration, retrieval, and observability around production AI.
+- I enjoy turning complex systems into useful, understandable products.
+
+[Portfolio](https://abdullah91111.github.io/portfolio/) · [LinkedIn](https://www.linkedin.com/in/abdullah-taufiq-5975b4171/) · [Email](mailto:taufiq44@hotmail.com) · [LeetCode](https://leetcode.com/u/Abdullah91111/)
 
 ## Experience
 
@@ -64,57 +63,177 @@ I'm currently an **AI Engineer at [Lorrysa](https://lorrysa.com)**, working on c
 
 ## Selected projects
 
-A few things I've built around useful agents, structured documents, and memory. Open a card to explore the code.
+### [Multi-Purpose Agent](https://github.com/abdullah91111/Multi-Purpose-Agent-in-n8n)
 
-<p>
-<a href="https://github.com/abdullah91111/Multi-Purpose-Agent-in-n8n">
-  <picture>
-    <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/project-agent-mobile-dark.svg">
-    <source media="(max-width: 600px)" srcset="assets/project-agent-mobile-light.svg">
-    <source media="(prefers-color-scheme: dark)" srcset="assets/project-agent-dark.svg">
-    <img src="assets/project-agent-light.svg" alt="Multi-Purpose Agent: an n8n agent for document summarization, question answering, and LinkedIn drafts from URLs and PDFs. Python, Docker, and LLMs." width="100%">
-  </picture>
-</a>
+An n8n agent for document summaries, question answering, and LinkedIn drafts from URLs and PDFs.
 
-</p>
+`n8n` `Python` `Docker` `LLMs`
 
-<p>
-<a href="https://github.com/abdullah91111/docling-api">
-  <picture>
-    <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/project-docling-mobile-dark.svg">
-    <source media="(max-width: 600px)" srcset="assets/project-docling-mobile-light.svg">
-    <source media="(prefers-color-scheme: dark)" srcset="assets/project-docling-dark.svg">
-    <img src="assets/project-docling-light.svg" alt="Docling API: converts PDFs, office files, and images into structured content with table extraction and Markdown, JSON, and HTML exports. Python, FastAPI, and Docker." width="100%">
-  </picture>
-</a>
+### [Docling API](https://github.com/abdullah91111/docling-api)
 
-</p>
+Converts PDFs, office files, and images into structured content, with table extraction and Markdown, JSON, and HTML exports.
 
-<p>
-<a href="https://github.com/abdullah91111/Create-and-Search-Memories-for-A-mem-using-n8n">
-  <picture>
-    <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/project-memory-mobile-dark.svg">
-    <source media="(max-width: 600px)" srcset="assets/project-memory-mobile-light.svg">
-    <source media="(prefers-color-scheme: dark)" srcset="assets/project-memory-dark.svg">
-    <img src="assets/project-memory-light.svg" alt="Agent Memory Workflows: n8n workflows that extract content from URLs and PDFs, generate AI tags, and store searchable memories in A-Mem." width="100%">
-  </picture>
-</a>
+`Python` `FastAPI` `Docker`
 
-</p>
+### [Agent Memory Workflows](https://github.com/abdullah91111/Create-and-Search-Memories-for-A-mem-using-n8n)
 
-[More on my portfolio →](https://abdullah91111.github.io/portfolio/projects/)
+Workflows that extract content from URLs and PDFs, generate AI tags, and store searchable memories in A-Mem.
+
+`A-Mem` `n8n` `Python` `LLMs`
+
+[More projects on my portfolio](https://abdullah91111.github.io/portfolio/projects/)
 
 ## Tools I work with
 
-| Area | Stack |
-| :--- | :--- |
-| **Languages & applications** | Python · TypeScript · JavaScript · SQL · Go · Next.js · Flutter |
-| **Agents & retrieval** | LangChain · LangGraph · Letta · RAG · GraphRAG · n8n |
-| **Graphs & storage** | Neo4j · FalkorDB · Qdrant · FAISS · Redis · Supabase |
-| **APIs & infrastructure** | FastAPI · Pydantic · REST APIs · Docker · GitHub Actions · Azure |
-| **ML & observability** | PyTorch · scikit-learn · Pandas · NumPy · MLflow · Datadog · PostHog |
+<p>
+  <sub><b>LANGUAGES</b></sub><br><br>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/tech/python-dark.svg">
+    <img src="assets/tech/python-light.svg" alt="Python" width="136" height="40">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/tech/typescript-dark.svg">
+    <img src="assets/tech/typescript-light.svg" alt="TypeScript" width="136" height="40">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/tech/javascript-dark.svg">
+    <img src="assets/tech/javascript-light.svg" alt="JavaScript" width="136" height="40">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/tech/go-dark.svg">
+    <img src="assets/tech/go-light.svg" alt="Go" width="136" height="40">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/tech/postgresql-dark.svg">
+    <img src="assets/tech/postgresql-light.svg" alt="SQL" width="136" height="40">
+  </picture>
+</p>
 
-## A year of contributions, one bite at a time
+<p>
+  <sub><b>APPLICATIONS &amp; APIS</b></sub><br><br>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/tech/nextdotjs-dark.svg">
+    <img src="assets/tech/nextdotjs-light.svg" alt="Next.js" width="136" height="40">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/tech/flutter-dark.svg">
+    <img src="assets/tech/flutter-light.svg" alt="Flutter" width="136" height="40">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/tech/fastapi-dark.svg">
+    <img src="assets/tech/fastapi-light.svg" alt="FastAPI" width="136" height="40">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/tech/pydantic-dark.svg">
+    <img src="assets/tech/pydantic-light.svg" alt="Pydantic" width="136" height="40">
+  </picture>
+</p>
+
+<p>
+  <sub><b>AGENTS &amp; RETRIEVAL</b></sub><br><br>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/tech/langchain-dark.svg">
+    <img src="assets/tech/langchain-light.svg" alt="LangChain" width="136" height="40">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/tech/langgraph-dark.svg">
+    <img src="assets/tech/langgraph-light.svg" alt="LangGraph" width="136" height="40">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/tech/n8n-dark.svg">
+    <img src="assets/tech/n8n-light.svg" alt="n8n" width="136" height="40">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/tech/letta-dark.svg">
+    <img src="assets/tech/letta-light.svg" alt="Letta" width="136" height="40">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/tech/rag-dark.svg">
+    <img src="assets/tech/rag-light.svg" alt="RAG" width="136" height="40">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/tech/graphrag-dark.svg">
+    <img src="assets/tech/graphrag-light.svg" alt="GraphRAG" width="136" height="40">
+  </picture>
+</p>
+
+<p>
+  <sub><b>GRAPHS &amp; STORAGE</b></sub><br><br>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/tech/neo4j-dark.svg">
+    <img src="assets/tech/neo4j-light.svg" alt="Neo4j" width="136" height="40">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/tech/qdrant-dark.svg">
+    <img src="assets/tech/qdrant-light.svg" alt="Qdrant" width="136" height="40">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/tech/redis-dark.svg">
+    <img src="assets/tech/redis-light.svg" alt="Redis" width="136" height="40">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/tech/supabase-dark.svg">
+    <img src="assets/tech/supabase-light.svg" alt="Supabase" width="136" height="40">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/tech/falkordb-dark.svg">
+    <img src="assets/tech/falkordb-light.svg" alt="FalkorDB" width="136" height="40">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/tech/faiss-dark.svg">
+    <img src="assets/tech/faiss-light.svg" alt="FAISS" width="136" height="40">
+  </picture>
+</p>
+
+<p>
+  <sub><b>MACHINE LEARNING</b></sub><br><br>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/tech/pytorch-dark.svg">
+    <img src="assets/tech/pytorch-light.svg" alt="PyTorch" width="136" height="40">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/tech/scikitlearn-dark.svg">
+    <img src="assets/tech/scikitlearn-light.svg" alt="scikit-learn" width="136" height="40">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/tech/pandas-dark.svg">
+    <img src="assets/tech/pandas-light.svg" alt="Pandas" width="136" height="40">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/tech/numpy-dark.svg">
+    <img src="assets/tech/numpy-light.svg" alt="NumPy" width="136" height="40">
+  </picture>
+</p>
+
+<p>
+  <sub><b>INFRA &amp; OBSERVABILITY</b></sub><br><br>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/tech/docker-dark.svg">
+    <img src="assets/tech/docker-light.svg" alt="Docker" width="136" height="40">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/tech/githubactions-dark.svg">
+    <img src="assets/tech/githubactions-light.svg" alt="GitHub Actions" width="136" height="40">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/tech/mlflow-dark.svg">
+    <img src="assets/tech/mlflow-light.svg" alt="MLflow" width="136" height="40">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/tech/datadog-dark.svg">
+    <img src="assets/tech/datadog-light.svg" alt="Datadog" width="136" height="40">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/tech/posthog-dark.svg">
+    <img src="assets/tech/posthog-light.svg" alt="PostHog" width="136" height="40">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/tech/azure-dark.svg">
+    <img src="assets/tech/azure-light.svg" alt="Azure" width="136" height="40">
+  </picture>
+</p>
+
+## GitHub activity
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abdullah91111/abdullah91111/output/github-snake-dark.svg">
@@ -128,7 +247,7 @@ A few things I've built around useful agents, structured documents, and memory. 
 Interested in **agents, retrieval, or production AI**? I'd love to exchange ideas or collaborate.
 
 <p align="center">
-  <a href="mailto:taufiq44@hotmail.com"><b>Let's talk ↗</b></a> &nbsp;·&nbsp;
+  <a href="mailto:taufiq44@hotmail.com"><b>Let's talk</b></a> &nbsp;·&nbsp;
   <a href="https://abdullah91111.github.io/portfolio/">Explore my portfolio</a> &nbsp;·&nbsp;
   <a href="https://www.linkedin.com/in/abdullah-taufiq-5975b4171/">Connect on LinkedIn</a>
 </p>
