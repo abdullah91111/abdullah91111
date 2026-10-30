@@ -26,7 +26,7 @@ I build agents, retrieval pipelines, and knowledge systems.
     <td width="72" align="center" valign="top"><a href="https://lorrysa.com"><img src="assets/logos/lorrysa.png" alt="Lorrysa logo" width="56" height="56"></a></td>
     <td>
       <strong>Lorrysa · AI Engineer</strong><br>
-      <sub>August 2026 – Present · Current role</sub><br><br>
+      <sub>August 2026 – Present · </sub><br><br>
       Working on Lorrysa's logistics and delivery management platform, connecting web, backend, and driver apps for trip management, live tracking, and delivery workflows.<br><br>
       <code>Next.js</code> <code>TypeScript</code> <code>Go</code> <code>Flutter</code> <code>Google Maps</code>
     </td>
